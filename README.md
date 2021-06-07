@@ -1,4 +1,4 @@
-# Vega frontend dashboard
+# Vega frontend dashboard by bibin
 
 This is a simple dashboard web application written in Go to stream the realtime log data.
 
